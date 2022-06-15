@@ -51,11 +51,11 @@ nitrogen --restore &
 #run vivaldi-stable &
 #run firefox &
 #run thunar &
-#run spotify &
+run spotify &
 #run atom &
 
 #run telegram-desktop &
-#run discord &
+run discord &
 #run dropbox &
 #run insync start &
 #run ckb-next -b &
